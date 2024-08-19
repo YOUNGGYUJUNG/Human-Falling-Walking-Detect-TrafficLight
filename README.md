@@ -16,10 +16,11 @@ https://github.com/ultralytics/yolov5
 # 사람 상태 감지 
 
 1. 걷기
+   
 ![image](https://github.com/user-attachments/assets/be380b70-4bb2-405f-89a7-65a1f124d88c)
 
 
-2. 넘어짐
+3. 넘어짐
 ![image](https://github.com/user-attachments/assets/3c898b2e-254c-4705-9cd2-64631ec48e2c)
 
 
