@@ -23,11 +23,13 @@ https://github.com/ultralytics/yolov5
 # 사람 상태 감지 
 
 1. 걷기
+
    
 ![image](https://github.com/user-attachments/assets/be380b70-4bb2-405f-89a7-65a1f124d88c)
 
 
 3. 넘어짐
+
    
 ![image](https://github.com/user-attachments/assets/3c898b2e-254c-4705-9cd2-64631ec48e2c)
 
@@ -38,6 +40,7 @@ https://github.com/ultralytics/yolov5
 
 # 사람 넘어짐 통계
 보행자 사고를 파이어베이스에서 로그 데이터를 가져와 x축은 날짜를 기준으로 구성, y축은 보행자의 쓰러짐을 감지한 횟수를 나타내는 그래프를 구성하여 보행자 사고를 집계합니다.
+
 
 ![이미지](https://github.com/user-attachments/assets/c92cbf79-a093-463a-9dd7-a86f75090d6c)!
 
@@ -55,11 +58,13 @@ https://github.com/ultralytics/yolov5
 동영상 링크: https://www.youtube.com/watch?v=YyqUL5-E00k
 
 왼쪽 사진은 보행자가 없을떄 신호가 빠르게 바뀌는 사진이고 오른쪽은 보행자가 걷고 있어 보행시간이 늘어난 사진입니다.
+
+
 ![image](https://github.com/user-attachments/assets/97e222d1-9ee5-4d62-9d02-8370fc4299ac)
 
 
 
-3. 보행중 넘어졌을 때
+2. 보행중 넘어졌을 때
 
 보행자가 횡단보도를 건너는 중에 쓰러지는 위급 상황 발생 시 MP3 모듈을 이용해 사람이 쓰러졌다는 음성을 송출하여 횡단보도 주변에 도움을
 요청합니다.
