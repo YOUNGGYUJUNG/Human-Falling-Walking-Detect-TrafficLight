@@ -19,7 +19,8 @@ https://github.com/ultralytics/yolov5
 [이미지](https://github.com/user-attachments/assets/a8c73ddf-8a2e-45d2-825e-5cd2e812e545) 
 
 2. 넘어짐
-[이미지](https://github.com/user-attachments/assets/a8c73ddf-8a2e-45d2-825e-5cd2e812e545)! 
+![Uploading image.png…]()
+
 
 
 # 사람 넘어짐 통계
