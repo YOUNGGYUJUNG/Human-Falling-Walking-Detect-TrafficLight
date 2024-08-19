@@ -20,7 +20,8 @@ https://github.com/ultralytics/yolov5
 ![image](https://github.com/user-attachments/assets/57340f05-d86d-46ce-8c5c-eb5ec66a0cac)
 
 
-3. 넘어짐
+2. 넘어짐
+   
 ![image](https://github.com/user-attachments/assets/f61dedca-0a6c-4bd6-9f31-8edd7b58b257)
 
 
