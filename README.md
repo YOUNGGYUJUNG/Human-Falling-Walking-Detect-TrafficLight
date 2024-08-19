@@ -1,4 +1,4 @@
-[이미지](https://github.com/user-attachments/assets/a8c73ddf-8a2e-45d2-825e-5cd2e812e545) 
+
 # 인간-낙하-보행-감지-신호등-신호등-신호등
 실시간으로 사람의 상태를 감지하고 신호 시간을 조정하는 신호등
 
@@ -19,7 +19,8 @@ https://github.com/ultralytics/yolov5
 [이미지](https://github.com/user-attachments/assets/a8c73ddf-8a2e-45d2-825e-5cd2e812e545) 
 
 2. 넘어짐
-[이미지](https://github.com/user-attachments/assets/6016227e-1120-4f2b-b124-e7bcda01c744)!
+![이미지 업로드 중.png...]()
+[이미지](https://github.com/user-attachments/assets/a8c73ddf-8a2e-45d2-825e-5cd2e812e545) 
 
 
 # 사람 넘어짐 통계
