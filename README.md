@@ -2,6 +2,7 @@
 실시간으로 사람의 상태를 감지하고 신호 시간을 조정하는 신호등
 
 # 소개
+
 횡단 중인 보행자를 실시간으로 카메라로 촬영하고 yolov5 모델을 사용하여 보행자를 감지합니다.
 
 걷기, 넘어짐 2가지 모델을 학습시켜 사람의 상태를 탐지합니다.
@@ -9,14 +10,17 @@
 보행자가 횡단보도 보행 중일 때 보행시간에 추가시간을 부여하여 녹색 등을 유지하고 사람이 걷고 있다는 신호를 보냅니다. 보행자가 쓰러지면 쓰러졌다고 경고 알림을 소리와 메세지를 홈페이지에서 출력하고 사람이 쓰러졌다는 신호를 보냅니다.
 
 # 사용 모델
+
 https://github.com/ultralytics/yolov5
 
 # 사람 상태 감지
+
 1. 걷기
+   
 ![image](https://github.com/user-attachments/assets/57340f05-d86d-46ce-8c5c-eb5ec66a0cac)
 
 
-2. 넘어짐
+3. 넘어짐
 ![image](https://github.com/user-attachments/assets/f61dedca-0a6c-4bd6-9f31-8edd7b58b257)
 
 
@@ -27,7 +31,9 @@ https://github.com/ultralytics/yolov5
 
 
 # 신호등 기능
+
 1. 정상 보행일 때
+   
 보행자가 있어 보행시간을 확장했을 때의 비교 동영상입니다. 보행자가 신호 변경 버튼을 눌러 신호를 변경하였을 때 보행자가 보행 중에는 보행 시간에 추가시간을 부여하여 녹색 등을 유지하고, 이때 최대 보행 시간은 40초이며, 30초가 되면 세그먼트 타이머가 작동되어 9초부터 1초까지 남은 시간을 안내해 줍니다.
 
 동영상 링크: https://www.youtube.com/watch?v=YyqUL5-E00k
@@ -37,6 +43,7 @@ https://github.com/ultralytics/yolov5
 ![image](https://github.com/user-attachments/assets/467fa0df-e2ae-4738-af4e-95f808ebf4fb)
 
 2. 보행중 넘어졌을 때
+   
 보행자가 횡단보도를 건너는 중에 쓰러지는 위급 상황 발생 시 MP3 모듈을 이용해 사람이 쓰러졌다는 음성을 송출하여 횡단보도 주변에 도움을 요청합니다.
 
 동영상 링크: https://www.youtube.com/watch?v=Msn9IvRIOA4
