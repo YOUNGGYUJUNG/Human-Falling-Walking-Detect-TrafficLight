@@ -16,11 +16,10 @@ https://github.com/ultralytics/yolov5
 # 사람 상태 감지 
 
 1. 걷기
-[이미지](https://github.com/user-attachments/assets/a8c73ddf-8a2e-45d2-825e-5cd2e812e545) 
+
 
 2. 넘어짐
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/3c898b2e-254c-4705-9cd2-64631ec48e2c)
 
 
 # 사람 넘어짐 통계
